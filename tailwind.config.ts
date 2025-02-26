@@ -18,8 +18,19 @@ export default {
         title: "title 3s ease-out forwards",
         "fade-bottom": "fade-bottom 3s ease-in-out forwards",
         "fade-top": "fade-top 3s ease-in-out forwards",
+        spotlight: "spotlight 3s ease .75s 1 forwards",
       },
       keyframes: {
+        "spotlight": {
+          "0%": {
+            opacity: "0",
+            transform: "translate(-72%, -62%) scale(0.5)",
+          },
+          "100%": {
+            opacity: "1",
+            transform: "translate(-50%,-40%) scale(1)",
+          },
+        },
         "fade-in": {
           "0%": {
             opacity: "0%",
