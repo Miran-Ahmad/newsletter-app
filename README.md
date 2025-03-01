@@ -1,6 +1,7 @@
 # Portfolio Newsletter
 
-![Screenshot (6)](https://github.com/user-attachments/assets/68e57fba-d3c4-4f9c-89f3-a2f8a1ec1253)
+![180shots_so](https://github.com/user-attachments/assets/33bfbfc1-f488-40dd-8df5-16062498d159)
+
 
 Welcome to the **Newsletter App**, a modern, high-performance newsletter subscription platform built using Next.js, TypeScript, and Mailchimp.
 
